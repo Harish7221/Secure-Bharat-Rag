@@ -2,7 +2,7 @@
 
 ## 🎥 Live Demo
 
-[![Watch Demo](https://img.youtube.com/vi/JZJwPSGBLFA/0.jpg)](https://youtu.be/JZJwPSGBLFA)
+[![Watch Demo](https://ibb.co/FkKh3FMW)](https://youtu.be/JZJwPSGBLFA)
 
 ---
 
